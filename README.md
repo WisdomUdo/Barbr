@@ -1,1 +1,1 @@
-This project is for design barber.
+This project is designed for the barber.
